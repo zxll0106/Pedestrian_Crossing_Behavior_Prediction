@@ -6,7 +6,7 @@ Intention head
 import torch
 import torch.nn as nn
 from .action_intent_net import ActionIntentNet
-from .vector_net_attention_ablation import Spatial_Temporal_Heterogeneous_Graph
+from .Spatial_Temporal_Heterogeneous_Graph import Spatial_Temporal_Heterogeneous_Graph
 from thop import profile,clever_format
 
 
