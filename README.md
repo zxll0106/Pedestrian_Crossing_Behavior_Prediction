@@ -1,5 +1,5 @@
 # Pedestrian Crossing Behavior Prediction
-This repo contains code of our paper "Social Aware Multi-Modal Pedestrian Crossing Behavior Prediction." 
+This repo contains code of our paper "Social Aware Multi-Modal Pedestrian Crossing Behavior Prediction". 
 
 _Xiaolin Zhai, Zhengxi Hu, Dingye Yang, Lei Zhou and Jingtai Liu_
 
