@@ -13,7 +13,7 @@ _Xiaolin Zhai, Zhengxi Hu, Dingye Yang, Lei Zhou and Jingtai Liu_
 
 
 # Data
-We have tested our method with [PIE](https://data.nvision2.eecs.yorku.ca/PIE_dataset/) and [JAAD](https://data.nvision2.eecs.yorku.ca/JAAD_dataset/) datasets. Users should follow their original instruction to download and prepare datasets. Users also need to get the extracted features from a pretrained VGG16 following the [PIEPredict repo](https://github.com/aras62/PIEPredict). As another option, users can download the vg166 features[here](https://drive.google.com/file/d/1xQAyvqE2Q4cxvjyWsCEJR09QjB7UYJIV/view?usp=sharing) extracted by [pedestrian_intent_action_detection](https://github.com/umautobots/pedestrian_intent_action_detection) and put it in `DATA_PATH/PIE_dataset/saved_output`.
+We have tested our method with [PIE](https://data.nvision2.eecs.yorku.ca/PIE_dataset/) and [JAAD](https://data.nvision2.eecs.yorku.ca/JAAD_dataset/) datasets. Users should follow their original instruction to download and prepare datasets. Users also need to get the extracted features from a pretrained VGG16 following the [PIEPredict repo](https://github.com/aras62/PIEPredict). As another option, users can download the vg166 features [here](https://drive.google.com/file/d/1xQAyvqE2Q4cxvjyWsCEJR09QjB7UYJIV/view?usp=sharing) extracted by [pedestrian_intent_action_detection](https://github.com/umautobots/pedestrian_intent_action_detection) and put it in `DATA_PATH/PIE_dataset/saved_output`.
 
 # Setup
 Run setup script
