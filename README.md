@@ -38,3 +38,7 @@ Change 1) `STYLE` value to `PIE` or `SF-GRU` ; 2)`--config_file` to correspondin
 ``` 
 python tools/test.py --config /extend/zxl/Intent_Estimation/pedestrian_intent_action_detection_wo_pose-main/configs/PIE_intent_action_relation.yaml --gpu 0 STYLE PIE MODEL.TASK action_intent_single SOLVER.MAX_ITERS 15000 TEST.BATCH_SIZE 1
 ```
+
+# Acknowledgement
+
+We thank for the part of code of pedestrian_intent_action_detection, whose github repo is [pedestrian_intent_action_detection](https://github.com/umautobots/pedestrian_intent_action_detection). We thank the authors for releasing their code.
