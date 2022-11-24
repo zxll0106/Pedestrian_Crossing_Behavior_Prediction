@@ -42,3 +42,15 @@ python tools/test.py --config /extend/zxl/Intent_Estimation/pedestrian_intent_ac
 # Acknowledgement
 
 We thank for the part of code of pedestrian_intent_action_detection, whose github repo is [pedestrian_intent_action_detection](https://github.com/umautobots/pedestrian_intent_action_detection). We thank the authors for releasing their code.
+
+# Citation
+```
+@InProceedings{Zhai_2022_ACCV,
+    author    = {Zhai, Xiaolin and Hu, Zhengxi and Yang, Dingye and Zhou, Lei and Liu, Jingtai},
+    title     = {Social Aware Multi-Modal Pedestrian Crossing Behavior Prediction},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {December},
+    year      = {2022},
+    pages     = {4428-4443}
+}
+```
